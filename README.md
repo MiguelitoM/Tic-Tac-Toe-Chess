@@ -1,6 +1,6 @@
-# Tic Tac Toe Chess
+# Tic-Tac-Toe Chess
 
-A simple chess-inspired game developed with **Pygame**, where the objective is to align three pieces. This is a logic and strategy game for two players, based on chess movements but with custom rules.
+A simple game inspired by chess and tic-tac-toe developed with **Pygame**. This is a logic and strategy game for two players, based on chess movements in a tic-tac-toe board.
 
 ## 🕹 How to Run
 
@@ -33,8 +33,5 @@ The game ends in one of two ways:
    - Each piece moves **according to its type**, using standard chess rules (e.g., bishops move diagonally).
    - **Capturing is not allowed** — players cannot remove opponent pieces.
 
-3. **Winning Conditions**:
-   - A player wins by forming a line of **three of their own pieces**: vertically, horizontally, or diagonally.
-   - If a player has no legal move on their turn, they **lose the game**.
 
 Good luck and have fun!
