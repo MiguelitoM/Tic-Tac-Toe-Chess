@@ -1,4 +1,4 @@
-# Chess Alignment Game
+# Tic Tac Toe Chess
 
 A simple chess-inspired game developed with **Pygame**, where the objective is to align three pieces. This is a logic and strategy game for two players, based on chess movements but with custom rules.
 
@@ -37,23 +37,4 @@ The game ends in one of two ways:
    - A player wins by forming a line of **three of their own pieces**: vertically, horizontally, or diagonally.
    - If a player has no legal move on their turn, they **lose the game**.
 
-## 📁 Project Structure
-
-```
-Projeto de Física/
-│
-├── images/               # Folder with all image assets
-│   ├── Board.png
-│   ├── CB.svg, BB.svg, etc.
-│
-├── Button.py             # Button class
-├── Centrar.py            # Utilities for centering elements
-├── Chess.py              # Piece definitions and logic
-├── Menu.py               # Game launcher and main menu
-├── Movements.py          # Handles movement logic
-└── README.md             # This file
-```
-
----
-
-Have fun and good luck strategizing!
+Good luck and have fun!
